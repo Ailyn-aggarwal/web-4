@@ -1,0 +1,48 @@
+#contact{
+    background-color: deepskyblue;
+}
+#contact iframe{
+    width: 100%;
+}
+.contact_ h3{
+  display: inline;
+}
+.contact_1 a{
+    color: black;
+    text-shadow: none;
+}
+html{
+    text-align: center;
+}
+.header_entrepreneur
+{
+  line-height: 2;
+}
+
+.alumni
+{
+  cursor: pointer;
+}
+
+.alumni hr
+{
+  margin-bottom: 10px;
+}
+
+.modal-content
+{
+  margin-top: 100px;
+}
+
+.img_modal
+  {
+    display: inline-block;
+  }
+.p_modal
+  {
+      margin-top: 10px;
+}
+.modal-body
+{
+    text-align: center
+}
